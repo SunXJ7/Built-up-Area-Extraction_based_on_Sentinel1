@@ -1,7 +1,7 @@
 # Sentinel-1-Datasets-for-Built-up-Area-Extraction
 <p style="text-align:justify; text-justify:inter-ideograph;">
 
-&emsp;&emsp;The project shares the datasets used in the article under submission to the ISPRS Journal of Photogrammetry and Remote Sensing, "Statistical Modeling of Hyperpixels in Polar Synthetic Aperture Radar (SAR) Data and Its Application to Built-Up Area Extraction", which is mainly applied in this paper for experimental validation of built-up area extraction.
+&emsp;&emsp;The project shares the datasets used in the article under submission to the ISPRS Journal of Photogrammetry and Remote Sensing, "Superpixel-wise Likelihood-ratio Test Statistic in PolSAR Data and Its Application to Built-Up Area Extraction", which is mainly applied in this paper for experimental validation of built-up area extraction.
 
 &emsp;&emsp;The selected PolSAR datasets cover different areas of Heilongjiang Province, China. The following figure shows the geographic location of the four study areas. It contains various surface features such as building, and vegetation.
 
