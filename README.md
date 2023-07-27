@@ -30,6 +30,6 @@
 </div>
 
 &emsp;&emsp;The datasets can be downloaded from the following link, [Get the Baidu Netdisk link here](https://pan.baidu.com/s/1mp2NVhcux2rYXZEMN1kQfw?pwd=cfs5 ),
-Extract code: cfs5 
+code: cfs5 
 
 </p>
