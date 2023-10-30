@@ -1,5 +1,5 @@
 
-%% main_SuperLRTSaliency
+%% main_SuperLRT
 
 close all;
 filepath = 'E:\data1\data1Aug\C2';
