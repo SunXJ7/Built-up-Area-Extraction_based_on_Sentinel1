@@ -1,0 +1,3 @@
+There are the main codes.
+FitSuperWishart.m is used for distribution curve fitting to verify model validity.
+main_SuperLRTSaliency.m is the main program section for extracting built-up areas.
