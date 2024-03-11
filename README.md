@@ -23,12 +23,6 @@
 <img src="https://github.com/SunXJ7/Sentinel-1-Dataset-for-Built-up-Area-Extraction-1/blob/main/Pictures/Detailed%20Information%20of%20The%20Four%20Sets.png" width="500px">
 </div>
 
-&emsp;&emsp;As shown in the figure below, the total folder consists of four sub-datasets, and each dataset folder contains data for the two temporal phases, GroundTruth and extraction results for the built-up areas extraction experiments. The folder for each time-phase data contains the C-matrix folder for that data, two magnitude images of single-channels, and the Sentinel I data zip for the original image to which the data belongs, which was downloaded from the ESA official website. The Sentinel I data zip contains images of regions other than the datasets used in this paper, and which can be processed directly using SNAP.
-
-<div align=center>
-<img src="https://github.com/SunXJ7/Sentinel-1-Dataset-for-Built-up-Area-Extraction-1/blob/main/Pictures/Folder%20Structure.png" width="500px">
-</div>
-
 &emsp;&emsp;The datasets can be downloaded from the following link, [Get the Baidu Netdisk link here](https://pan.baidu.com/s/1f7KRKpZLLz4rLVBD7ib6Pg?pwd=9rdc),
 code: 9rdc 
 
