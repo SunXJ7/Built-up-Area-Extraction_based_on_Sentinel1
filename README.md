@@ -1,4 +1,4 @@
-# BreadcrumbsBuilt-up-Area-Extraction_based_on_Sentinel1
+# Built-up-Area-Extraction_based_on_Sentinel1
 <p style="text-align:justify; text-justify:inter-ideograph;">
 
 &emsp;&emsp;The project shares the codes used in the article "Superpixel-wise Likelihood-ratio Test Statistic in PolSAR Data and Its Application to Built-Up Area Extraction", which is mainly applied in this paper for experimental validation of built-up area extraction.
