@@ -4,9 +4,9 @@
 &emsp;&emsp;The project shares the codes used in the article "Superpixel-wise Likelihood-ratio Test Statistic in PolSAR Data and Its Application to Built-Up Area Extraction", which is mainly applied in this paper for experimental validation of built-up area extraction.
 
 &emsp;&emsp;There are the main codes.
-Distribution_Fitting.m is used for distribution curve fitting to verify model validity.
-main.m is the main program section for extracting built-up areas.
-aux_funcitons contains the auxiliary functions to be called by the above code.
+'Distribution_Fitting.m' is used for distribution curve fitting to verify model validity.
+'main.m' is the main program section for extracting built-up areas.
+'aux_funcitons' folder contains the auxiliary functions to be called by the above code.
 
 &emsp;&emsp;The selected PolSAR datasets cover different areas of Heilongjiang Province, China. The following figure shows the geographic location of the four study areas. It contains various surface features such as building, and vegetation.
 
@@ -28,7 +28,6 @@ aux_funcitons contains the auxiliary functions to be called by the above code.
 <img src="https://github.com/SunXJ7/Sentinel-1-Dataset-for-Built-up-Area-Extraction-1/blob/main/Pictures/Detailed%20Information%20of%20The%20Four%20Sets.png" width="500px">
 </div>
 
-&emsp;&emsp;This project provides example data, which can be downloaded from the following link, [Get the Baidu Netdisk link here](https://pan.baidu.com/s/1f7KRKpZLLz4rLVBD7ib6Pg?pwd=9rdc),
-code: 9rdc 
+&emsp;&emsp;This project provides example data, which can be downloaded from the 'data' folder
 
 </p>
